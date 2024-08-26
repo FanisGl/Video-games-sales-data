@@ -1,4 +1,9 @@
 # Video Games Sale Data Analysis
+> Tags: [Data Analytics], [Statistics]
+>
+> Technical Skills: [Python], [Jupyter Notebook], [Pandas], [Numpy], [Matplotlib]
+>
+> Theoretical Frameworks: [Poisson Distribution]
 
 A simplistic execution of EDA (Exploratory Data Analysis), to answer 7 questions, and perform a poisson distribution to model the data.
 

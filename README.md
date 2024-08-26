@@ -36,18 +36,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -421,4 +409,5 @@ The PMF is a function over a sample of a discrete value X which annotates the pr
 
 As we had already seen on the goodness-for-fit test, the distribution does not work well, as it is clear that the PMF overestimates the frequency of low sales and underestimates that of the high volume of sales. That concludes that Poisson is indeed not a good fit for this dataset.
 
-! Note: That does not necessarily mean that this data set does not follow *any* probability distribution, just that it does not follow *specifically* a Poisson distribution.
+> [!NOTE]
+> That does not necessarily mean that this data set does not follow *any* probability distribution, just that it does not follow *specifically* a Poisson distribution.

@@ -6,11 +6,14 @@
 > Theoretical Frameworks: [Poisson Distribution]
 
 >[!NOTE]
-> <sub> The dataset and the idea of the EDA goes to the **amazing** team of Workearly. They are specialised educational professionals that offer extraordinary bootcamps and more. </sub>
+> <sub> An exercise done with the assistance provided from the Workearly team when I was doing my bootcamp back in 2023. They are specialised educational professionals that offer extraordinary upskilling bootcamps and more. </sub>
 >
-> <sub> I started my journey of upskilling last February with them, and the learning structure they provide you with, has helped me become adept in 6 different tools and use them in a professional environment in only 10 months, including how to utilise Python in Data Science as seen below. </sub>
+> <sub> I started my journey of upskilling last February with them, and thanks to the learning structure they offer, they had helped me become adept in 6 different tools and use them in a professional environment in only 10 months, including how to utilise Python in Data Science as seen below. </sub>
 >
-> <sub> Make sure you check them out if you are interested in any sort of upskilling for you or your team: https://www.workearly.co </sub>
+> <sub> Make sure you check them out if you are interested in any sort of upskilling for you or your team: https://www.workearly.gr/ </sub>
+>
+> <sub> The dataset was distributed by the user GregorySmith(gregorut): https://www.kaggle.com/datasets/gregorut/videogamesales </sub>
+
 
 A simplistic execution of EDA (Exploratory Data Analysis), to answer 7 questions, and perform a poisson distribution to model the data.
 

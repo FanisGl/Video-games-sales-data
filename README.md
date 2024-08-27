@@ -8,9 +8,9 @@
 >[!NOTE]
 > <sub> The dataset and the idea of the EDA goes to the **amazing** team of Workearly. They are specialised educational professionals that offer extraordinary bootcamps and more. </sub>
 >
-> <sub> I started my journey of upskilling last February with them, and the learning structure they offered helped me become adept in 6 different tools in no time, including how to utilise Python in Data Science as seen below. </sub>
+> <sub> I started my journey of upskilling last February with them, and the learning structure they provide you with, has helped me become adept in 6 different tools and use them in a professional environment in only 10 months, including how to utilise Python in Data Science as seen below. </sub>
 >
-> <sub> Make sure you check them out if you are interested in any sort of upskilling: https://www.workearly.co </sub>
+> <sub> Make sure you check them out if you are interested in any sort of upskilling for you or your team: https://www.workearly.co </sub>
 
 A simplistic execution of EDA (Exploratory Data Analysis), to answer 7 questions, and perform a poisson distribution to model the data.
 

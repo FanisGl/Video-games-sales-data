@@ -8,7 +8,7 @@
 >[!NOTE]
 > <sub> The dataset and the idea of the EDA goes to the **amazing** team of Workearly. They are specialised educational professionals that offer extraordinary bootcamps and more. </sub>
 >
-> <sub> I started my journey of upskilling last February with them, and the learning structure they offered helped me become adept in 6 different tools in no time, including utilising Python as seen below. </sub>
+> <sub> I started my journey of upskilling last February with them, and the learning structure they offered helped me become adept in 6 different tools in no time, including how to utilise Python in Data Science as seen below. </sub>
 >
 > <sub> Make sure you check them out if you are interested in any sort of upskilling: https://www.workearly.co </sub>
 

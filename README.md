@@ -6,11 +6,11 @@
 > Theoretical Frameworks: [Poisson Distribution]
 
 >[!NOTE]
-> The dataset and the idea of the EDA goes to the **amazing** team of Workearly. They are specialised educational professionals that offer extraordinary bootcamps.
+> <sub> The dataset and the idea of the EDA goes to the **amazing** team of Workearly. They are specialised educational professionals that offer extraordinary bootcamps and more. </sub>
 >
-> I started my journey of upskilling last February with them, and the learning structure they offered helped me become adept in 6 different tools in no time, including utilising Python as seen below.
+> <sub> I started my journey of upskilling last February with them, and the learning structure they offered helped me become adept in 6 different tools in no time, including utilising Python as seen below. </sub>
 >
-> Make sure you check them out if you are interested in any sort of upskilling: https://www.workearly.co
+> <sub> Make sure you check them out if you are interested in any sort of upskilling: https://www.workearly.co </sub>
 
 A simplistic execution of EDA (Exploratory Data Analysis), to answer 7 questions, and perform a poisson distribution to model the data.
 

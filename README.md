@@ -1,4 +1,4 @@
-# Video Games Sale Data Analysis
+# Video-games Sales Data Analysis
 > Tags: [Data Analytics], [Statistics]
 >
 > Technical Skills: [Python], [Jupyter Notebook], [Pandas], [Numpy], [Matplotlib]
